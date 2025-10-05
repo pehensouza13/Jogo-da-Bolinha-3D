@@ -35,16 +35,15 @@ Inclua aqui o link para o vídeo de gameplay (YouTube, Google Drive, etc.).
 ---
 
 ## 🖼️ Prints do Jogo
-Coloque suas capturas de tela na pasta `prints/` e mantenha os nomes abaixo (ou ajuste os nomes aqui conforme necessário).
 
 | Cena | Arquivo |
-|---|---|
-| Menu/Start | `prints/01-menu.png` |
-| Jogo (fase) | `prints/02-fase.png` |
-| Obstáculo | `prints/03-obstaculo.png` |
-| Vitória/Derrota | `prints/04-fim.png` |
-
-Markdown de referência para exibir cada imagem:
+|---|
+| Fase 1 |
+| <img width="611" height="496" alt="image" src="https://github.com/user-attachments/assets/b9720e81-94bd-4f14-a786-ff51c57c4a97" />|
+| Fase 2 | 
+| <img width="557" height="471" alt="image" src="https://github.com/user-attachments/assets/8d9b8bcf-c0a7-4e6a-8f30-34b581924fad" />|
+| Fase 3 |
+| <img width="615" height="484" alt="image" src="https://github.com/user-attachments/assets/5573fddb-8ddb-4f2a-9ed0-fcd14ffb71d6" />|
 
 ```
 
