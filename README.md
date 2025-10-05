@@ -26,12 +26,6 @@ Em um mesa, um protótipo de esfera ganhou consciência e deseja escapar. Para i
 
 ---
 
-## ▶️ Vídeo do jogo em execução (Gameplay)
-Inclua aqui o link para o vídeo de gameplay (YouTube, Google Drive, etc.).
-
-
----
-
 ## 🖼️ Prints do Jogo
 
 | Fase 1 |
